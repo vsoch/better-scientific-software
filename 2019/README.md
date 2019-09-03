@@ -21,6 +21,8 @@ Specifically, as a fellow I will host an "RSE Day" to bring together Research Co
 
 For the focus areas, I work on many of the BSSw bullets on a daily basis (software engineering, documentation, automated builds, version control and issues, refactoring, tooling), however this particular project is a topic that is much more challenging for me, because it involves people. For this work, collaboration is the most prominent focus area, and Funding Sources and Programs likely the most relevant subtopic.
 
+I greatly appreciate this opportunity to apply, and look forward to seeing impact that BSSw can have for reproducible science.
+
 ### Containers
 
  - https://singularity-hub.org
