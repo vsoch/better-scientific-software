@@ -1,15 +1,6 @@
-# Better Scientific Software Fellowship
+# Better Scientific Software
 
-### About you: 
+Applications for the Better Scientific Software Award
 
- - Name, organization, department, position, research area, email, phone, website, how you heard the fellowship.
-
-### Experience: 
-
- - Describe your work relevant to scientific software (1000 - 1500 characters). 
- - Describe your background and experience relevant to being a BSSw Fellow (1000 - 1500 characters).
-
-### Proposed work and impact: 
-
-- What would you do as a BSSw Fellow? (1000 - 1500 characters). 
-- What impact do you foresee from your efforts? (1000 - 1500 characters).
+ - [2018](2018) for 2020
+ - [2019](2019) for 2019
