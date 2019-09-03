@@ -1,23 +1,12 @@
 # Better Scientific Software Fellowship
 
-## Experience
-
- - Describe your work relevant to scientific software (1000 - 1500 characters).
- - Describe your background and experience relevant to being a BSSw Fellow (1000 - 1500 characters).
-
-## Proposed work and impact
-
- - What would you do as a BSSw Fellow? (1000 - 1500 characters).
- - What impact do you foresee from your efforts? (1000 - 1500 characters).
- - Which BSSw focus areas and subtopics apply to your proposed work? Specify all that apply. See https://bssw.io for a list of focus areas and subtopics (e.g., Focus Area: Planning; Subtopic: Requirements).
-
 ------------------------------------------------------------
 
 ## Experience
 
-I'm a research software engineer at Stanford University in the Research Computing Center, and over the three years of my employment I've made significant contributions to novel software for container orchestration, registries, and software[^1], published my work[^2], along with driving community development and practices in open source projects [^3]. My devotion to the scientific community and improving scientific reproducibility is shown through my work. I have over 500 respositories, and am a member of 25 organizations on GitHub. I regularly write blog posts and have recorded small podcasts to introduce readers to software, or open source ideas. I tend to pursue ideas that are important, and don't give up on the effort until I'm convinced there is a better way.
+I'm a research software engineer at Stanford University in the [Research Computing Center](https://srcc.stanford.edu/), and over the three years of my employment I've made significant contributions to novel software for container orchestration, registries, and software [1](#containers), published my work [2](#publications), along with driving community development and practices in open source projects [3](#contributions). My devotion to the scientific community and improving scientific reproducibility is shown through my work. I have over 500 respositories, and am a member of 25 organizations on GitHub. I regularly write blog posts and have recorded small podcasts to introduce readers to software, or open source ideas. I tend to pursue ideas that are important, and don't give up on the effort until I'm convinced there is a better way.
 
-I've been working to establish research software engineering at Stanford, and realized that I need to approach it from more of a business perspective than an academic one. I had previously thought that open source could provide a venue for learning a growth, but I've realized that open source can never provide the funding needed to support a long term solution. Thus, I'm taking action to dually grow awareness for the need for research software engineers, along with doing whatever it takes to make the role a reality. Along with developing guides and online content for education [^4], 
+I've been working to establish research software engineering at Stanford, and realized that I need to approach it from more of a business perspective than an academic one. I had previously thought that open source could provide a venue for learning a growth, but I've realized that open source can never provide the funding needed to support a long term solution. Thus, I'm taking action to dually grow awareness for the need for research software engineers, along with doing whatever it takes to make the role a reality. Along with developing guides and online content for education [4](#learning), 
 in the last few months I've established [RSE Services](https://stanford-rc.github.io/rse-services/) and am creating official avenues for researchers to get support with software at Stanford. On my own and without advertisement, I've already successfully completed three contracts and started a third. I'm hoping to engage with users and departments directly at the start of next year.
 
 I applied to be a BSSw Fellow for the 2019 year and was given a mention, and I was unable to attend the events due to a conflict. I'm applying again because the effort that I'm currently fighting for, establishing the validity and career track for a Research Software Engineer, is important enough to warrant more coverage. I used to think that I could solve many problems in the world of scientific software just by building it myself, but I've come to realize that the problem reflects a larger issue with policy that doesn't allow for hiring staff specialized to ensure quality and sustainability of research outputs.
@@ -32,15 +21,17 @@ Specifically, as a fellow I would host an "RSE Day" to bring together Research C
 
 For the focus areas, I work on many of the BSSw bullets on a daily basis (software engineering, documentation, automated builds, version control and issues, refactoring, tooling), however this particular project is a topic that is much more challenging for me, because it involves people. For this work, collaboration is the most prominent focus area, and Funding Sources and Programs likely the most relevant subtopic.
 
-[^1]:
-https://singularity-hub.org
-https://singularityhub.github.io/singularity-compose
-https://singularityhub.github.io/singularityhub-docs
-https://singularityhub.github.io/sregistry
-https://singularityhub.github.io/singularity-ci
-https://singularityhub.github.io/singularity-cli
+### Containers
 
-[^2]:
+ - https://singularity-hub.org
+ - https://singularityhub.github.io/singularity-compose
+ - https://singularityhub.github.io/singularityhub-docs
+ - https://singularityhub.github.io/sregistry
+ - https://singularityhub.github.io/singularity-ci
+ - https://singularityhub.github.io/singularity-cli
+
+### Publications
+
 ```
 Sochat, V (2019). Singularity Compose: Orchestration for Singularity Instances. Journal of Open Source
 Software, 4(40), 1578, https://doi.org/10.21105/joss.01578
@@ -63,9 +54,11 @@ Kurtzer GM, Sochat V, Bauer MW (2017) Singularity: Scientific containers for mob
 ONE 12(5): e0177459.
 ```
 
-[^3]: 
-I created community content for the Open Container Initiative, contributed to scientific workflows and management software (spack, snakemake, encode), and am a prominent member of the US-RSE (US Research Software Engineering Association).
+### Contributions
 
-[^4]:
+I am a primary contributor to [AskCI](http://ask.cyberinfrastructure.org), and created community content for the Open Container Initiative, contributed to scientific workflows and management software (spack, snakemake, encode), and am a prominent member of the US-RSE (US Research Software Engineering Association).
+
+### Learning
+
 https://us-rse.org/starter-pack/
 https://www.youtube.com/watch?v=trAfA9VWLTQ

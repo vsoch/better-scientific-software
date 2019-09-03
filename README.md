@@ -1,6 +1,6 @@
 # Better Scientific Software
 
-Applications for the Better Scientific Software Award
+Applications for the Better Scientific Software Fellowship
 
- - [2018](2018) for 2020
- - [2019](2019) for 2019
+ - [2018](2018)
+ - [2019](2019)
